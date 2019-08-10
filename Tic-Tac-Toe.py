@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 import random
 import os
 
@@ -273,10 +270,3 @@ while True:
     # prompt users if they want to play again and break the while loop if no
     if not replay():
         break
-
-
-# In[ ]:
-
-
-
-
